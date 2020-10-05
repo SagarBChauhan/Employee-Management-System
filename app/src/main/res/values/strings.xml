@@ -1,0 +1,19 @@
+<resources>
+    <array name="Department">
+        <item>B.CA</item>
+        <item>B.Tech</item>
+        <item>Pharmacy</item>
+        <item>Mechanical</item>
+        <item>Electrical</item>
+        <item>Automobile</item>
+        <item>Civil</item>
+        <item>Architecture</item>
+        <item>Nursing</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Maths</item>
+        <item>Sports</item>
+        <item>M.sc(It)</item>
+    </array>
+    <string name="app_name">EmployeeManagementSystem</string>
+</resources>
